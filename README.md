@@ -14,3 +14,9 @@
 |2 |bbb  |
 |3 |cccc |
 
+<html><table>
+    <tr><td>id</td><td>name</td></tr>
+    <tr><td>1</td><td>aaa</td></tr>
+    <tr><td>2</td><td>bbb</td></tr>
+    <tr><td>3</td><td>cccc</td></tr>
+</table></html>
